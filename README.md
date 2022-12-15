@@ -1,6 +1,13 @@
 # Dictionary-App
 Dictionary App Using HTML, CSS &amp; JS
+
+
+
+
 Netlify Deployed Link : https://capable-salamander-8973e5.netlify.app/
+
+
+
 
 
 
